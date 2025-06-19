@@ -1,6 +1,8 @@
 # EnglishAI - Aprendizaje Conversacional de Inglés 🌍
 
-![EnglishAI]
+<div align="center">
+  <img src="public/images/logo/logo512.png" alt="EnglishAI Logo" width="200"/>
+</div>
 
 ## 🚀 Descripción del Proyecto
 
@@ -48,23 +50,33 @@ El sistema de tokens de EnglishAI revoluciona el modelo freemium tradicional:
 ## 📱 Capturas de Pantalla
 
 ### Dashboard Principal
-![Dashboard](public/dashboard.png)
+<div align="center">
+  <img src="public/images/readme/dashboard.png" alt="Dashboard" width="800"/>
+</div>
 Panel principal que muestra el progreso general, nivel actual y objetivos diarios.
 
 ### Práctica Conversacional
-![Conversación](public/conversation.png)
+<div align="center">
+  <img src="public/images/readme/conversation.png" alt="Conversación" width="800"/>
+</div>
 Interfaz de chat con IA para práctica conversacional en tiempo real.
 
 ### Entrenamiento de Vocabulario
-![Vocabulario](public/vocabulary.png)
+<div align="center">
+  <img src="public/images/readme/vocabulary.png" alt="Vocabulario" width="800"/>
+</div>
 Sistema de flashcards y ejercicios para aprendizaje de vocabulario.
 
 ### Plan de Estudio
-![Plan de Estudio](public/study-plan.png)
+<div align="center">
+  <img src="public/images/readme/study-plan.png" alt="Plan de Estudio" width="800"/>
+</div>
 Programa estructurado de 10 días con objetivos específicos.
 
 ### Seguimiento de Progreso
-![Progreso](public/progress.png)
+<div align="center">
+  <img src="public/images/readme/progress.png" alt="Progreso" width="800"/>
+</div>
 Estadísticas detalladas y seguimiento de objetivos mensuales.
 
 ## 🛠️ Tecnologías Utilizadas
@@ -80,7 +92,7 @@ Estadísticas detalladas y seguimiento de objetivos mensuales.
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/riche45/project-EnglishAI
+git clone https://github.com/riche45/project-EnglishAI.git
 ```
 
 2. Instalar dependencias:
